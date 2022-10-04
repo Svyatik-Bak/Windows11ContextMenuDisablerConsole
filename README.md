@@ -1,0 +1,2 @@
+# Windows11ContextMenuDisablerConsoleole
+Console version of Windows11ContextMenuDisabler
